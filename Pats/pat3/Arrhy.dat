@@ -1,0 +1,12 @@
+ Tachycardia Low Limit (BPM):  120
+         SVT Low Limit (BPM):   80
+Bradycardia High Limit (BPM):   50
+   True SVPB Prematurity (%):   25
+                Pause (msec): 2000
+  ST Segment Depression (µV):  100
+   ST Segment Elevation (µV):  200
+   RR Filter (0/1=ALL 2=N-N):    0
+         Exclude Pause in HR:    0
+AFib Detection Enabled(0=no):    1
+ Patient Has Pacemaker(0=no):    0
+Min Tachy/Brady Episode(sec):  180
