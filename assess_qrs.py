@@ -82,7 +82,7 @@ from hierarchical_qrs_classifier import HierarchicalQRSClassifier
 
 PATS_DEFAULT_DIR = r"C:\Users\Artin\Desktop\New folder\Pats"
 PATS_ALT_DIR = r"C:\Users\Artin\Desktop\qrs2\Pats"
-MODEL_DEFAULT_PATH = r"C:\Users\Artin\Desktop\QRS\qrs_resnet1d_all_datasets.keras"
+MODEL_DEFAULT_PATH = r"C:\Users\Artin\Desktop\QRS\qrs_resnet1d_all_datasets_ctx.keras"
 
 # Patient clinical profiles and default configurations
 PATIENT_REGISTRY = {
