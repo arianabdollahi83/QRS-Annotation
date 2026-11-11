@@ -1,0 +1,6 @@
+kind,name,n_beats,png,rpeaks_npz
+exception,noise,191,results/Pat5\exceptions\noise.png,results/Pat5\exceptions\noise.npz
+final,hdb000,10,results/Pat5\valid\hdb000\hdb000.png,results/Pat5\valid\hdb000\hdb000.npz
+final,hdb001_corr000_rms000,414,results/Pat5\valid\hdb001\hdb001_corr000_rms000.png,results/Pat5\valid\hdb001\hdb001_corr000_rms000.npz
+final,hdb001_corr000_rms001,33,results/Pat5\valid\hdb001\hdb001_corr000_rms001.png,results/Pat5\valid\hdb001\hdb001_corr000_rms001.npz
+final,hdb002,4,results/Pat5\valid\hdb002\hdb002.png,results/Pat5\valid\hdb002\hdb002.npz
